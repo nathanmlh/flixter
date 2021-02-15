@@ -19,7 +19,7 @@ Flixter is an app that allows users to browse movies from the [The Movie Databas
 
 ### App Walkthrough GIF
 
-<img src="https://recordit.co/6Bmd4rwI6g.gif" width=250><br>
+<img src="https://recordit.co/gXAlYsbY0M.gif" width=250><br>
 
 ### Notes
 Only challenge was getting cocoapods installed, had to install it with homebrew instead of sudo gem.
